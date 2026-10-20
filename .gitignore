@@ -1,0 +1,9 @@
+# original photo downloads (resized copies live in photos.js)
+photos/*.jpg
+photos/*.jpeg
+photos/*.png
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+.vercel
